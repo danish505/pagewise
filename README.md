@@ -1,4 +1,5 @@
-# Local Book PDF Q&A with Ollama
+# PageWise
+## Local Book PDF Q&A with Ollama
 
 This is a starter Python application for asking questions about your PDF books locally.
 
